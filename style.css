@@ -62,7 +62,7 @@ header {
       rgba(10, 37, 64, 0.6),
       rgba(10, 37, 64, 0.6)
     ),
-    url("../images/hero.jpg") center/cover no-repeat;
+    url("./images/hero.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -248,7 +248,7 @@ form button {
 .page-hero {
   height: 60vh;
   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-    url("../images/contact-hero.jpg") center/cover no-repeat;
+    url("./images/contact-hero.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -404,7 +404,7 @@ form button {
 .booking-hero {
   height: 55vh;
   background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
-    url("../images/booking-hero.jpg") center/cover no-repeat;
+    url("./images/booking-hero.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -572,7 +572,7 @@ form button {
   height: 55vh;
   background:
     linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-    url("../images/contact-hero.jpg") center/cover no-repeat;
+    url("./images/contact-hero.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -610,7 +610,7 @@ form button {
 .gallery-hero {
   height: 55vh;
   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-    url("../images/gallery-hero.jpg") center/cover no-repeat;
+    url("./images/gallery-hero.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -658,7 +658,7 @@ form button {
   height: 90vh;
   background:
     linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-    url("../images/home-heros.jpg") center/cover no-repeat;
+    url("./images/home-heros.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -700,7 +700,7 @@ form button {
   height: 55vh;
   background:
     linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-    url("../images/home-heros.jpg") center/cover no-repeat;
+    url("./images/home-heros.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -739,7 +739,7 @@ form button {
   height: 55vh;
   background:
     linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-    url("../images/gallery-hero.jpg") center/cover no-repeat;
+    url("./images/gallery-hero.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
